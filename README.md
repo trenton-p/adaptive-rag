@@ -1,5 +1,4 @@
-
-# ACME News Demo - Pinecone Adaptive-RAG Agent
+# Adaptive-RAG Agent 
 
 ## Overview
 
